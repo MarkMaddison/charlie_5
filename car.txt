@@ -7,6 +7,14 @@ Citroen
 Peugeot
 Mazda
 
+Chevrolet 
+Lamborghini 
+=======
+Subaru
+Land-rover
+
+=======
+
 
 German cars are missing therefore I would like to add
 Merc
