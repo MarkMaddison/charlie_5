@@ -6,7 +6,7 @@ Fiat
 Citroen
 Peugeot
 Mazda
-<<<<<<< HEAD
+
 
 German cars are missing therefore I would like to add
 Merc
@@ -18,4 +18,6 @@ this is serious, please do not delete my file!
 =======
 Subaru
 Land-rover
->>>>>>> e448f69b8effee95cd0164df17f2de5d6323410a
+
+Volvo
+=======
