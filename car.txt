@@ -6,3 +6,5 @@ Fiat
 Citroen
 Peugeot
 Mazda
+Subaru
+Land-rover
