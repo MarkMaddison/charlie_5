@@ -6,3 +6,5 @@ Fiat
 Citroen
 Peugeot
 Mazda
+Chevrolet 
+Lamborghini 
