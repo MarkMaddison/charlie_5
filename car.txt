@@ -6,5 +6,10 @@ Fiat
 Citroen
 Peugeot
 Mazda
+<<<<<<< HEAD
 Chevrolet 
 Lamborghini 
+=======
+Subaru
+Land-rover
+>>>>>>> e448f69b8effee95cd0164df17f2de5d6323410a
