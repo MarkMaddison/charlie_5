@@ -1,0 +1,75 @@
+echo "# charlie_5" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MarkMaddison/charlie_5.git
+git push -u origin master
+
+
+
+
+https://github.com/MarkMaddison/charlie_5.git
+
+1. git init
+
+2. touch car.txt
+
+3. git add .
+
+4. git commit -m "Blank Version"
+
+
+5.  echo Toyota >> car.txt
+
+    echo Renault >> car.txt
+
+    echo Honda >> car.txt
+
+6. git add car.txt
+
+7. git commit -m "First Version"
+
+8. echo Fiat >> car.txt
+
+   echo Citroen >> car.txt
+
+6. git add .
+
+7. git commit -m "Second Version"
+
+8. git status
+
+9. git branch mark
+
+10. git checkout mark
+
+11. echo Peugeot >> car.txt
+
+      echo Mazda >> car.txt
+
+12. git add .
+
+     git commit -m "Mark Version"
+
+13. git branch -a
+
+14. git checkout master
+
+15. git merge mark
+
+16. git branch -d mark
+
+17. git log (copy first commit key)
+
+18. git checkout 
+
+19. git hub
+git remote add origin remote-repository-URL
+git remote -v
+git push origin master
+
+
+19. git push --set-upstream https://github.com/MarkMaddison/Charlie_6.git master
+
+
+
